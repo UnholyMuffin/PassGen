@@ -1,4 +1,4 @@
-# Password Generator App
+# PassGen
 
 <img width="879" height="995" alt="image" src="https://github.com/user-attachments/assets/78197839-d45f-4235-8f67-acc48d0326fc" />
 
